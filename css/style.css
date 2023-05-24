@@ -1,0 +1,32 @@
+*{
+    color:rgb(17, 1, 1);
+}
+a{
+    color:blueviolet;
+    text-decoration: none;
+}
+.paragraph{
+    background-color: brown;
+}
+.colorchange{
+    background-color: rgb(120, 241, 151);
+}
+.font-40{
+font-size: 40px !important;
+}
+p{font-size: 20px;
+border-style: dotted;}
+li{font-size: 20px;}
+td{font-size: 20px;}
+th{font-size: 20px;}
+img{max-width: 50%;
+border-radius: 25%;
+border:2px red;
+border-style: dotted;}
+h1{text-decoration: underline;
+text-align:center;
+color:rgb(60, 8, 109)}
+p{text-align: center;}
+li{color:blueviolet;}
+th{color:blue;}
+strong{color:blue}
